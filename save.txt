@@ -1,0 +1,3 @@
+Kurczaczki;mniam mniam;123;14;
+Burger;Maxi;250;11;
+Burger;Premium;450;13;
